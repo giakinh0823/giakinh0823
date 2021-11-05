@@ -30,8 +30,8 @@
 </div>
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=giakinh0823&" alt="giakinh0823" />
     <img src="https://github-readme-stats.vercel.app/api?username=giakinh0823&show_icons=true&locale=en" alt="giakinh0823" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=giakinh0823&" alt="giakinh0823" />
   </div>
 </div>
 
