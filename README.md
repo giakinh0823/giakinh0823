@@ -1,8 +1,6 @@
-### Welcom to giakinh0823 👋
+### Hi 👋, I'm Hà Gia Kính
 
 ![83028727_1072660103079562_5927115423223906304_n (1)](https://user-images.githubusercontent.com/34394697/140506322-17e89be8-dbc5-4f4e-ad9f-f7448e089930.jpg)
-
-# Hi 👋, I'm Hà Gia Kính
 
 - 🔭 I’m currently working from home
 - 🌱 I’m currently learning FPT University
