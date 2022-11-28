@@ -8,7 +8,5 @@
 - 🤔 I’m looking for help with code!
 - 💬 Ask me about anything
 - 📫 How to reach me giakinh2000@gmail.com
-- 🎉 Gitlab https://gitlab.com/giakinh0823
 - 🎉 Website: https://hagiakinh.me
-- 🎉 Link viblo https://viblo.asia/u/giakinh0823
 - 🎉 Link linkedIn https://www.linkedin.com/in/giakinh0823/
