@@ -7,5 +7,6 @@
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with code!
 - 💬 Ask me about anything
-- 🎉 Website: https://hagiakinh.me
+- 🎉 Website: https://gurucoding.org
+- 🎉 Me: https://me.gurucoding.org
 - 🎉 Link linkedIn https://www.linkedin.com/in/giakinh0823/
